@@ -13,3 +13,9 @@ Outcome of this Analysis and Study
 4. Customer Recurrence, Recurrence, and Financial Analysis
 
 5. Analysis of client data using networks or graphs.
+
+# Business use
+
+1. Assisting the business development team in developing product differentiation based on a customer's attribute.
+
+2. Know how to serve customers according to certain standards.
